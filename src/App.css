@@ -24,3 +24,7 @@
   display:flex;
   flex-wrap:wrap;
 }
+body{
+  background-color:aqua;
+  font-family: 'Supermercado One', cursive;
+}
